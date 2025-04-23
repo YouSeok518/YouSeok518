@@ -38,8 +38,11 @@
 <br>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YouSeok518&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YouSeok518&layout=compact)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YouSeok518)](https://github.com/YouSeok518/github-readme-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YouSeok518)](https://github.com/YouSeok518/github-readme-stats)
+
+
 
 <br>
 
